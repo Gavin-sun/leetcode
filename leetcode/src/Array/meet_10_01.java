@@ -17,7 +17,7 @@ package Array;
  *      提示: A.length == n + m
  *
  */
-public class meet10_01 {
+public class meet_10_01 {
 
     public static void main(String[] args) {
         int A[]={1,2,3,0,0,0};
